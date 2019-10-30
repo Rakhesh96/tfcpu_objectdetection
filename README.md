@@ -1,2 +1,2 @@
 # tfcpu_objectdetection
-Read the steps in stepswise word document
+Read the steps in stepwise word document
